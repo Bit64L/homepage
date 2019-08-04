@@ -1,5 +1,5 @@
 main:
   - title: "Blog"
-    url: "https://bit64l.github.io/"
+    url: "https://blog.wenxiaoli.me"
   - title: "LeetCode"
-    url: "https://bit64l.github.io/leetCodeSummary/"
+    url: "https://leetcode.wenxiaoli.me"
