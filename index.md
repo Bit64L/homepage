@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/cloud3.jpg
 
 excerpt: >
-  Build life like a product.<br />
+  Simple but reliable.<br />
   <br />
   <br />
   <br />
@@ -18,3 +18,5 @@ excerpt: >
 feature_row:
   
 ---
+
+
