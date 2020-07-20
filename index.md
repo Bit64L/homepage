@@ -13,8 +13,6 @@ excerpt: >
   <br />
   <br />
   <br />
-  <br />
-
 feature_row:
   
 ---
